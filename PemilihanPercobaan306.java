@@ -16,8 +16,7 @@ public class PemilihanPercobaan306 {
         switch (operator) {
             case '+':
             hasil = angka1 + angka2;
-            System.out.println(angka1 + "+" + angka2 + "=" + hasil);
-            break;
+            System.out.println(angka1 + "+" + angka2 + "=" + hasil);    
             case '-':
             hasil = angka1 - angka2;
             System.out.println(angka1 + "-" + angka2 + "=" + hasil);
